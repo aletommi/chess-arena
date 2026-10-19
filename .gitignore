@@ -1,0 +1,4 @@
+.DS_Store
+includes/vendor/
+.env
+assets/user_images/

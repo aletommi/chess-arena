@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "config": {
+        "platform": {
+            "php": "8.2.4"
+        },
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
